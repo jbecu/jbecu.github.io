@@ -1,4 +1,7 @@
+<?php
 include("header.html")
+?>
+
 <article class="single">
   <header>
     <h1 id="contact">Contact</h1>
@@ -13,4 +16,6 @@ include("header.html")
 <p>jean-michel.becu@inria.fr</p>
   </div>
 </article>
+<?php
 include("footer.html")
+?>
